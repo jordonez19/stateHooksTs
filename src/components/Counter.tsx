@@ -14,7 +14,7 @@ const Counter = () => {
 
     return (
         <div>
-            <h3>Counter:useState</h3>
+            <h3>Counter : useState</h3>
             <div className="d-flex">
                 <Button className="m-2" onClick={() => contador(-2)}>
                     -2

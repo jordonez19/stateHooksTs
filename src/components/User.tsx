@@ -23,7 +23,7 @@ const User = () => {
 
     return (
         <div>
-            <h3>User:useState</h3>
+            <h3>User : useState</h3>
             <div className="d-flex align-items-center">
                 <Button className="mx-2" onClick={login}>
                     Login
